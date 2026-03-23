@@ -2,7 +2,6 @@
 
 A simple webpage created to celebrate Pi Day (π Day)!  
 This project showcases 10 popular pies from around the world with images, names, and short descriptions.
-This project is also a plea for Mr. Abela to buy our class a pecan pie.
 
 ## Built With
 - HTML5
@@ -20,3 +19,5 @@ Displays a collection of pies including:
 - Blueberry Pie
 - Banoffee Pie
 - Meat Pie
+
+This project is also a plea for Mr. Abela to buy our class a pecan pie.
