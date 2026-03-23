@@ -7,7 +7,7 @@ This project showcases 10 popular pies from around the world with images, names,
 - HTML5
 - CSS3
 
-## 📸 Preview
+## Preview 
 Displays a collection of pies including:
 - Apple Pie
 - Pumpkin Pie
