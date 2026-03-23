@@ -20,4 +20,3 @@ Displays a collection of pies including:
 - Banoffee Pie
 - Meat Pie
 
-This project is also a plea for Mr. Abela to buy our class a pecan pie.
